@@ -26,7 +26,7 @@ Labs Projects should be limited in scope to practically achieve the 4-6 week bui
  
 ## Reporting
  
-The director will brief the CIO and COO monthly on Labs’ current project, milestones, achievements, failures, lessons learned, etc.  
+In addition to maintaining general team status information on Labs' website through project profiles and supporting blog posts, the director of Labs will brief the CIO and COO monthly on current project status, milestones, achievements, failures, lessons learned, etc.  
  
 ## Organizational Structure 
 
